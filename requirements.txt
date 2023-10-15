@@ -6,5 +6,4 @@ streamlit
 joblib
 pyfiglet
 tqdm
-logging
 -e .

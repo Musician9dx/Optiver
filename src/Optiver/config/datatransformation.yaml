@@ -1,0 +1,7 @@
+DataStoragePath: D:/INeuron/nvech/noops/Optiver/resource/data.csv
+xTrainDataPath: D:/INeuron/nvech/noops/Optiver/resource/xtrain.pkl
+yTrainDataPath: D:/INeuron/nvech/noops/Optiver/resource/ytrain.pkl
+xTestDataPath: D:/INeuron/nvech/noops/Optiver/resource/xtest.pkl
+yTestDataPath: D:/INeuron/nvech/noops/Optiver/resource/ytest.pkl
+xValDataPath: D:/INeuron/nvech/noops/Optiver/resource/xval.pkl
+yValDataPath: D:/INeuron/nvech/noops/Optiver/resource/yval.pkl
