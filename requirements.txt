@@ -1,0 +1,10 @@
+tensorflow
+numpy
+scikit-learn
+pandas
+streamlit
+joblib
+pyfiglet
+tqdm
+logging
+-e .
